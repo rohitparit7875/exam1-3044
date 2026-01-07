@@ -1,0 +1,16 @@
+👨‍💻 SOC Analyst – Core Responsibilities
+24×7 Monitoring
+Monitor alerts from SIEM, IDS/IPS, EDR, firewalls
+Identify suspicious or malicious activity
+Incident Detection & Response
+Analyze alerts → classify → contain → eradicate → recover
+Handle malware, phishing, brute force, ransomware alerts
+Log Analysis
+Analyze logs from servers, applications, databases, and network devices
+Correlate events to detect attacks
+Threat Intelligence
+Use IOCs (IP, hash, domain)
+Track emerging threats and attacker behavior
+Reporting & Documentation
+Prepare incident reports
+Maintain SOPs and escalation notes

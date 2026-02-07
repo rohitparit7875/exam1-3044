@@ -1,0 +1,13 @@
+🌐 Networking Questions
+6️⃣ What is IP Address?
+👉 Unique number used to identify a device on network.
+7️⃣ Commands used for network troubleshooting?
+ipconfig
+ping
+tracert
+nslookup
+8️⃣ What is DNS?
+👉 Converts domain names into IP addresses.
+9️⃣ Difference between Public and Private IP?
+👉 Public = Internet visible
+👉 Private = Local network only
